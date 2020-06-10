@@ -15,9 +15,9 @@ The controller is the [IS31FL3737](http://www.issi.com/WW/pdf/31FL3737.pdf)
 
 In this repository you can find:
 - [Schematic](EncoderRing.PDF)
-- [Gerbers](Hardware\Gerber%20Files\)
-- [BOM](Hardware\BOM\)
-- [Pick & Place](Hardware\Pick%20Place\)
-- [3D File](Hardware\STEP\)
+- [Gerbers](/Hardware/Gerber%20Files/)
+- [BOM](/Hardware/BOM/)
+- [Pick & Place](/Hardware/Pick%20Place/)
+- [3D File](/Hardware/STEP/)
 
-![Here you can find the Arduino library](https://github.com/Fattoresaimon/ArduinoDuPPaLib)
+[Here you can find the Arduino library](https://github.com/Fattoresaimon/ArduinoDuPPaLib)
