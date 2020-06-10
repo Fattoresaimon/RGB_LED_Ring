@@ -1,9 +1,9 @@
 # RGB LED Ring
-![Assembled](\Assembled.jpg)
+![Assembled](Assembled.jpg)
 
-![Bottom](\Bottom.jpg)
+![Bottom](Bottom.jpg)
 
-![ON](\ON.jpg)
+![ON](ON.jpg)
 
 This is the official repository of the RGB LED Ring!
 The RGB LED Ring is an accessory of the rotary encoder.
@@ -14,10 +14,10 @@ Each single LED can be controller with 256 step, then each RGB LED are encoded w
 The controller is the [IS31FL3737](http://www.issi.com/WW/pdf/31FL3737.pdf)
 
 In this repository you can find:
-- ![Schematic](\EncoderRing.PDF)
-- ![Gerbers](\Hardware\Gerber Files\)
-- ![BOM](\Hardware\BOM\)
-- ![Pick & Place](\Hardware\Pick Place\)
-- ![3D File](\Hardware\STEP\)
+- [Schematic](EncoderRing.PDF)
+- [Gerbers](Hardware\Gerber%20Files\)
+- [BOM](Hardware\BOM\)
+- [Pick & Place](Hardware\Pick%20Place\)
+- [3D File](Hardware\STEP\)
 
 ![Here you can find the Arduino library](https://github.com/Fattoresaimon/ArduinoDuPPaLib)
