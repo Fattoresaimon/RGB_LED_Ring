@@ -1,11 +1,7 @@
 # RGB LED Ring
-![Assembled](Assembled.jpg)
+### This is the official repository of the RGB LED Ring!
+### [Avaiable on Tindie!](https://www.tindie.com/products/saimon/rgb-led-ring/)
 
-![Bottom](Bottom.jpg)
-
-![ON](ON.jpg)
-
-This is the official repository of the RGB LED Ring!
 The RGB LED Ring is an accessory of the rotary encoder.
 The shaft  of the encoder can be insert in the center hole of the board. It support both the normal rotary encoder and the RGB encoder.
 
@@ -21,3 +17,10 @@ In this repository you can find:
 - [3D File](/Hardware/STEP/)
 
 [Here you can find the Arduino library](https://github.com/Fattoresaimon/ArduinoDuPPaLib)
+
+
+![Assembled](Assembled.jpg)
+
+![Bottom](Bottom.jpg)
+
+![ON](ON.jpg)
