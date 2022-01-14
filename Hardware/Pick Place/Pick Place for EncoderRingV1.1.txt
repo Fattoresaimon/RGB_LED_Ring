@@ -1,0 +1,106 @@
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/01/22
+Time:       20:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Layer        Footprint                Center-X(mil) Center-Y(mil) Rotation      PartNumber      
+C1         BottomLayer  SMC_A                    -224.409      -602.362      180           CA45-A016K106T  
+C2         BottomLayer  C0402                    -110.564      -620.467      270           CL05A474KA5NNNC 
+C3         BottomLayer  C0402                    -62.992       -622.047      270           CL05B104KO5NNNC 
+C8         BottomLayer  C0402                    181.102       -433.071      135           CL05A474KA5NNNC 
+C9         BottomLayer  C0402                    279.527       -464.567      90            CL05B104KO5NNNC 
+C11        BottomLayer  C0402                    -468.504      354.331       270.007820129 CL05B103KA5NNNC 
+C12        BottomLayer  C0402                    -500.984      265.748       0             CL05B104KO5NNNC 
+C13        BottomLayer  C0402                    -315.125      342.676       270           CL05B103KA5NNNC 
+C14        BottomLayer  C0402                    -208.661      342.520       270           CL05B104KO5NNNC 
+L1         TopLayer     RGB_2121_NH-Z1921RGBA-SG 301.326       -727.464      202.5         NH-Z1921RGBA-SG 
+L2         TopLayer     RGB_2121_NH-Z1921RGBA-SG 393.701       -681.910      210           NH-Z1921RGBA-SG 
+L3         TopLayer     RGB_2121_NH-Z1921RGBA-SG 479.340       -624.688      217.5         NH-Z1921RGBA-SG 
+L4         TopLayer     RGB_2121_NH-Z1921RGBA-SG 556.777       -556.777      225           NH-Z1921RGBA-SG 
+L5         TopLayer     RGB_2121_NH-Z1921RGBA-SG 624.688       -479.340      232.5         NH-Z1921RGBA-SG 
+L6         TopLayer     RGB_2121_NH-Z1921RGBA-SG 681.910       -393.701      240           NH-Z1921RGBA-SG 
+L7         TopLayer     RGB_2121_NH-Z1921RGBA-SG 727.464       -301.326      247.5         NH-Z1921RGBA-SG 
+L8         TopLayer     RGB_2121_NH-Z1921RGBA-SG 760.571       -203.794      255           NH-Z1921RGBA-SG 
+L9         TopLayer     RGB_2121_NH-Z1921RGBA-SG 780.665       -102.777      262.5         NH-Z1921RGBA-SG 
+L10        TopLayer     RGB_2121_NH-Z1921RGBA-SG 787.402       0.000         270           NH-Z1921RGBA-SG 
+L11        TopLayer     RGB_2121_NH-Z1921RGBA-SG 780.665       102.777       277.5         NH-Z1921RGBA-SG 
+L12        TopLayer     RGB_2121_NH-Z1921RGBA-SG 760.572       203.795       285           NH-Z1921RGBA-SG 
+L13        TopLayer     RGB_2121_NH-Z1921RGBA-SG 727.464       301.326       292.5         NH-Z1921RGBA-SG 
+L14        TopLayer     RGB_2121_NH-Z1921RGBA-SG 681.910       393.701       300           NH-Z1921RGBA-SG 
+L15        TopLayer     RGB_2121_NH-Z1921RGBA-SG 624.688       479.340       307.5         NH-Z1921RGBA-SG 
+L16        TopLayer     RGB_2121_NH-Z1921RGBA-SG 556.777       556.777       315           NH-Z1921RGBA-SG 
+L17        TopLayer     RGB_2121_NH-Z1921RGBA-SG 479.340       624.688       322.5         NH-Z1921RGBA-SG 
+L18        TopLayer     RGB_2121_NH-Z1921RGBA-SG 393.701       681.910       330           NH-Z1921RGBA-SG 
+L19        TopLayer     RGB_2121_NH-Z1921RGBA-SG 301.326       727.464       337.5         NH-Z1921RGBA-SG 
+L20        TopLayer     RGB_2121_NH-Z1921RGBA-SG 203.794       760.571       345           NH-Z1921RGBA-SG 
+L21        TopLayer     RGB_2121_NH-Z1921RGBA-SG 102.777       780.665       352.5         NH-Z1921RGBA-SG 
+L22        TopLayer     RGB_2121_NH-Z1921RGBA-SG 0.000         787.402       0             NH-Z1921RGBA-SG 
+L23        TopLayer     RGB_2121_NH-Z1921RGBA-SG -102.777      780.665       7.5           NH-Z1921RGBA-SG 
+L24        TopLayer     RGB_2121_NH-Z1921RGBA-SG -203.795      760.572       15            NH-Z1921RGBA-SG 
+L25        TopLayer     RGB_2121_NH-Z1921RGBA-SG -301.326      727.464       22.5          NH-Z1921RGBA-SG 
+L26        TopLayer     RGB_2121_NH-Z1921RGBA-SG -393.701      681.910       30            NH-Z1921RGBA-SG 
+L27        TopLayer     RGB_2121_NH-Z1921RGBA-SG -479.340      624.688       37.5          NH-Z1921RGBA-SG 
+L28        TopLayer     RGB_2121_NH-Z1921RGBA-SG -556.777      556.777       45            NH-Z1921RGBA-SG 
+L29        TopLayer     RGB_2121_NH-Z1921RGBA-SG -624.688      479.340       52.5          NH-Z1921RGBA-SG 
+L30        TopLayer     RGB_2121_NH-Z1921RGBA-SG -681.910      393.701       60            NH-Z1921RGBA-SG 
+L31        TopLayer     RGB_2121_NH-Z1921RGBA-SG -727.464      301.326       67.5          NH-Z1921RGBA-SG 
+L32        TopLayer     RGB_2121_NH-Z1921RGBA-SG -760.572      203.794       75            NH-Z1921RGBA-SG 
+L33        TopLayer     RGB_2121_NH-Z1921RGBA-SG -780.665      102.777       82.5          NH-Z1921RGBA-SG 
+L34        TopLayer     RGB_2121_NH-Z1921RGBA-SG -787.402      0.000         90            NH-Z1921RGBA-SG 
+L35        TopLayer     RGB_2121_NH-Z1921RGBA-SG -780.665      -102.777      97.5          NH-Z1921RGBA-SG 
+L36        TopLayer     RGB_2121_NH-Z1921RGBA-SG -760.572      -203.795      105           NH-Z1921RGBA-SG 
+L37        TopLayer     RGB_2121_NH-Z1921RGBA-SG -727.464      -301.326      112.5         NH-Z1921RGBA-SG 
+L38        TopLayer     RGB_2121_NH-Z1921RGBA-SG -681.910      -393.701      120           NH-Z1921RGBA-SG 
+L39        TopLayer     RGB_2121_NH-Z1921RGBA-SG -624.688      -479.340      127.5         NH-Z1921RGBA-SG 
+L40        TopLayer     RGB_2121_NH-Z1921RGBA-SG -556.777      -556.777      135           NH-Z1921RGBA-SG 
+L41        TopLayer     RGB_2121_NH-Z1921RGBA-SG -479.340      -624.688      142.5         NH-Z1921RGBA-SG 
+L42        TopLayer     RGB_2121_NH-Z1921RGBA-SG -393.701      -681.910      150           NH-Z1921RGBA-SG 
+L43        TopLayer     RGB_2121_NH-Z1921RGBA-SG -301.326      -727.464      157.5         NH-Z1921RGBA-SG 
+L44        TopLayer     RGB_2121_NH-Z1921RGBA-SG -203.794      -760.572      165           NH-Z1921RGBA-SG 
+L45        TopLayer     RGB_2121_NH-Z1921RGBA-SG -102.777      -780.665      172.5         NH-Z1921RGBA-SG 
+L46        TopLayer     RGB_2121_NH-Z1921RGBA-SG 0.000         -787.402      180           NH-Z1921RGBA-SG 
+L47        TopLayer     RGB_2121_NH-Z1921RGBA-SG 102.777       -780.665      187.5         NH-Z1921RGBA-SG 
+L48        TopLayer     RGB_2121_NH-Z1921RGBA-SG 203.795       -760.572      195           NH-Z1921RGBA-SG 
+L49        BottomLayer  L0805                    -531.496      354.331       270           CBW201209U601T  
+L50        BottomLayer  L0402                    -263.779      342.520       270           CBG100505U601T  
+logo1      BottomSolder DUPPA_TOP_300X76         -3543.307     -3346.457     270           ""              
+P1         BottomLayer  MOLX-52361-0571-5_V      -284.594      653.885       22.4134750366 532610571       
+P2         BottomLayer  MOLX-52361-0571-5_V      284.753       653.922       337.5         532610571       
+R1         BottomLayer  R0402                    216.535       -736.221      180           RC0402JR-0751RL 
+R2         BottomLayer  R0402                    208.172       467.563       246           0402WGJ0472TCE  
+R3         BottomLayer  R0402                    255.906       443.242       239.999996185 0402WGJ0472TCE  
+R4         BottomLayer  R0402                    244.095       -464.567      90            0402WGJ0472TCE  
+R5         BottomLayer  R0402                    122.047       -370.079      270           RC-02W2002FT    
+R6         BottomLayer  R0402                    216.535       -775.591      180           RC0402JR-0720RL 
+R7         BottomLayer  R0402                    299.213       -696.850      180           RC0402JR-0720RL 
+R8         BottomLayer  R0402                    472.441       -700.787      180           RC0402JR-0751RL 
+R9         BottomLayer  R0402                    472.441       -661.417      180           RC0402JR-0720RL 
+R10        BottomLayer  R0402                    472.441       -622.047      180           RC0402JR-0720RL 
+R11        BottomLayer  R0402                    704.724       480.315       270           RC0402JR-0751RL 
+R12        BottomLayer  R0402                    665.354       480.315       270           RC0402JR-0720RL 
+R13        BottomLayer  R0402                    625.984       480.315       270           RC0402JR-0720RL 
+R14        BottomLayer  R0402                    -544.180      48.002        315           RC0402JR-0751RL 
+R15        BottomLayer  R0402                    -599.858      -7.676        315           RC0402JR-0720RL 
+R16        BottomLayer  R0402                    -572.019      20.163        315           RC0402JR-0720RL 
+R17        BottomLayer  R0402                    -590.551      -255.905      0             RC0402JR-0751RL 
+R18        BottomLayer  R0402                    -590.551      -216.535      0             RC0402JR-0720RL 
+R19        BottomLayer  R0402                    -590.551      -295.276      0             RC0402JR-0720RL 
+R20        BottomLayer  R0402                    -360.236      -584.646      90            RC0402JR-0751RL 
+R21        BottomLayer  R0402                    -23.622       -795.276      90            RC0402JR-0720RL 
+R22        BottomLayer  R0402                    -476.378      -633.858      90            RC0402JR-0720RL 
+SJ1        BottomLayer  SJ                       409.608       368.812       221.999996185 ""              
+SJ2        BottomLayer  SJ                       477.337       275.591       210           ""              
+SJ3        BottomLayer  SJ                       524.205       170.324       197.999996185 ""              
+SJ4        BottomLayer  SJ                       548.162       57.614        185.999995232 ""              
+SJ5        BottomLayer  SJ                       548.162       -57.614       174.000004768 ""              
+SJ6        BottomLayer  SJ                       524.205       -170.324      162.000003815 ""              
+SJ7        BottomLayer  SJ                       477.337       -275.591      150           ""              
+SJ8        BottomLayer  SJ                       409.608       -368.812      138.000003815 ""              
+SJ9        BottomLayer  SJ_2                     178.736       350.790       153.000003815 ""              
+Sync       BottomLayer  PAD_1mm                  -421.260      -22.638       90            RS-200-208      
+U1         BottomLayer  BGA36C50P6X6_290X290X40  59.055        -517.577      315           IS31FL3745      
