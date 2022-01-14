@@ -1,0 +1,126 @@
+*************************************************************
+FileName = EncoderRingV1.1.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\profile
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_3d_body\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_3d_body\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_3d_body\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_3d_body\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dimensions\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\dimensions\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_11\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_11\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_guide_top-bottom\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_guide_top-bottom\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\layer_2\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\layer_2\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\drill_drawing_top-bottom\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\layer_1\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\layer_1\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\fatto\Git\RGBLEDRing\HW\EncoderRingV1.1\Project Outputs for EncoderRingV1.1\ODB++ Files\odb\matrix\matrix
+
