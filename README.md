@@ -11,10 +11,10 @@ The controller is the [ IS31FL3745](https://www.lumissil.com/assets/pdf/core/IS3
 
 In this repository you can find:
 - [Schematic](EncoderRingV1.1.PDF)
-- [Gerbers](/Hardware/Gerber%20Files/)
+- [Gerbers](/Hardware/Gerber/)
 - [BOM](/Hardware/BOM/)
 - [Pick & Place](/Hardware/Pick%20Place/)
-- [3D File](/Hardware/STEP/)
+- [3D File](/Hardware/ExportSTEP/)
 
 [Here you can find the Arduino library](https://github.com/Fattoresaimon/ArduinoDuPPaLib)
 
