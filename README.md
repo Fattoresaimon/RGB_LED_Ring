@@ -10,7 +10,7 @@ Each single LED can be controller with 256 step, then each RGB LED are encoded w
 The controller is the [ IS31FL3745](https://www.lumissil.com/assets/pdf/core/IS31FL3745_DS.pdf)
 
 In this repository you can find:
-- [Schematic](EncoderRingV1.1.PDF)
+- [Schematic](/PDF/)
 - [Gerbers](/Hardware/Gerber/)
 - [BOM](/Hardware/BOM/)
 - [Pick & Place](/Hardware/Pick%20Place/)
